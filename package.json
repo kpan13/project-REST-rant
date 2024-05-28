@@ -8,11 +8,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "REST-Rant is an app where users can review restaurants. Part One: Open REST-Rant Part 1 Open the basic Express app you built earlier. This app will serve as the foundation for your REST-Rant application, which will manage places (restaurants) and later allow for adding reviews (rants).",
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "express-react-views": "^0.11.0",
     "react": "^18.3.1"
-  }
+  },
+  "devDependencies": {}
 }
